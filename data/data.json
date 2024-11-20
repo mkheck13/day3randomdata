@@ -1,0 +1,34 @@
+{
+    "students": [
+        {
+            "firstName": "Harry",
+            "lastName": "Potter",
+            "house": "Gryffindor"
+        },
+        {
+            "firstName": "Hermione",
+            "lastName": "Granger",
+            "house": "Gryffindor"
+        },
+        {
+            "firstName": "Ron",
+            "lastName": "Weasley",
+            "house": "Gryffindor"
+        },
+        {
+            "firstName": "Draco",
+            "lastName": "Malfoy",
+            "house": "Slytherin"
+        },
+        {
+            "firstName": "Luna",
+            "lastName": "Lovegood",
+            "house": "Ravenclaw"
+        },
+        {
+            "firstName": "Cedric",
+            "lastName": "Diggory",
+            "house": "Hufflepuff"
+        }
+    ]
+}
